@@ -34,5 +34,17 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/bloggify-passport/issues"
+  },
+  "dependencies": {
+    "passport": "^0.3.2"
+  },
+  "bloggify": {
+    "config": {
+      "login_url": "/login",
+      "success_url": "/",
+      "strategy": "local",
+      "auth_options": {},
+      "strategy_options": {}
+    }
   }
 }
