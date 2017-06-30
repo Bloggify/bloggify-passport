@@ -47,7 +47,6 @@ There are few ways to get help:
 
 ### Plugin Configuration
 
-#### Params
 - **Object** `config`:
  - `strategy` (String): The PassportJS strategy name (default: "local").
  - `auth_options` (Object): Contains the authentication options.

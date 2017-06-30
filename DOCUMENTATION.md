@@ -4,7 +4,6 @@ You can see below the API reference of this module.
 
 ### Plugin Configuration
 
-#### Params
 - **Object** `config`:
  - `strategy` (String): The PassportJS strategy name (default: "local").
  - `auth_options` (Object): Contains the authentication options.
