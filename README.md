@@ -18,7 +18,7 @@ $ npm i --save bloggify-passport
 
 
 ```js
-{
+const pluginConfigs = {
     //...
     "bloggify-passport": {
         login_url: "/user/signin",
