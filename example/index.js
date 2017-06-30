@@ -1,4 +1,4 @@
-{
+const pluginConfigs = {
     //...
     "bloggify-passport": {
         login_url: "/user/signin",
