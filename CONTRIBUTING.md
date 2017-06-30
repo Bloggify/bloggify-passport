@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/bloggify-passport/issues
+[1]: https://github.com/Bloggify/bloggify-passport/issues
 
 [2]: https://github.com/IonicaBizau/code-style
