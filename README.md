@@ -17,7 +17,7 @@ $ npm i --save bloggify-passport
 
 
 ```js
-const passport = ["passport": {
+const passport = ["passport", {
     login_url: "/user/signin",
     verify_callback (email, password, cb) {
         if (email === "foo@bar.com" && password === "42") {
@@ -40,7 +40,7 @@ There are few ways to get help:
 ## :memo: Documentation
 
 
-### bloggify:init
+### `bloggify:init(config)`
 
 #### Params
 - **Object** `config`:

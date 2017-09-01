@@ -2,7 +2,7 @@
 
 You can see below the API reference of this module.
 
-### bloggify:init
+### `bloggify:init(config)`
 
 #### Params
 - **Object** `config`:
