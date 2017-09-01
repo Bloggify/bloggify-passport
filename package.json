@@ -9,7 +9,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -37,14 +37,5 @@
   },
   "dependencies": {
     "passport": "^0.3.2"
-  },
-  "bloggify": {
-    "config": {
-      "login_url": "/login",
-      "success_url": "/",
-      "strategy": "local",
-      "auth_options": {},
-      "strategy_options": {}
-    }
   }
 }

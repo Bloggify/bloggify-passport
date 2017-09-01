@@ -1,0 +1,9 @@
+{
+    "config": {
+      "login_url": "/login",
+      "success_url": "/",
+      "strategy": "local",
+      "auth_options": {},
+      "strategy_options": {}
+    }
+}
