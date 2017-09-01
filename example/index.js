@@ -1,4 +1,4 @@
-const passport = ["passport": {
+const passport = ["passport", {
     login_url: "/user/signin",
     verify_callback (email, password, cb) {
         if (email === "foo@bar.com" && password === "42") {
