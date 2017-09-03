@@ -60,6 +60,11 @@ The model objects can be accessed by requiring the module or accessing the `Blog
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`bloggify-user-auth`](https://github.com/Bloggify/user-auth#readme) (by Bloggify)—User management for Bloggify.
 
 ## :scroll: License
 
