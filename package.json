@@ -9,7 +9,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -39,6 +39,6 @@
     "url": "https://github.com/Bloggify/bloggify-passport/issues"
   },
   "dependencies": {
-    "passport": "^0.3.2"
+    "passport": "^0.4.1"
   }
 }
