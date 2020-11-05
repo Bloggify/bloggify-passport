@@ -4,6 +4,7 @@
       "success_url": "/",
       "strategy": "local",
       "auth_options": {},
-      "strategy_options": {}
+      "strategy_options": {},
+      "fresh_user": false
     }
 }
