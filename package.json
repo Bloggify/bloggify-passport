@@ -39,6 +39,6 @@
     "url": "https://github.com/Bloggify/bloggify-passport/issues"
   },
   "dependencies": {
-    "passport": "^0.4.1"
+    "passport": "^0.6.0"
   }
 }
